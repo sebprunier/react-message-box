@@ -1,0 +1,19 @@
+.message {
+  outline: 2px solid green;
+  padding: 6px;
+}
+
+.message-list {
+  outline: 2px solid blue;
+  padding: 6px;
+}
+
+.message-box {
+  outline: 2px solid grey;
+  padding: 6px;
+}
+
+.message-form {
+  outline: 2px solid orange;
+  padding: 6px;
+}
