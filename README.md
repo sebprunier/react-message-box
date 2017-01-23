@@ -1,3 +1,7 @@
+Lien vers le template pour la TodoApp : https://gist.github.com/sebprunier/b693e45f1410e42a2766c94f7dfc7666
+
+--
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
